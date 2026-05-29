@@ -1,2 +1,7 @@
-# demo-de-torres-mantenimiento-de-edificios
-Demo web para De Torres - Mantenimiento de edificios — diseñada por eterlab.
+# De Torres - Mantenimiento de edificios
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
